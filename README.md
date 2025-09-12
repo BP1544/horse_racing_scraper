@@ -24,7 +24,7 @@ The process is fully automated - to get started simply run the `todays_data.ipyn
 
 ## 📊 What You'll Get
 ### Today's Race Summary
-The final outputs after running `todays_data.ipynb` includes a CSV file and pandas DataFrame containing data for every horse racing today. More specifically, this includes
+The final outputs after running `todays_data.ipynb` include a CSV file and pandas DataFrame containing data for every horse racing today. More specifically, this includes
 - Race day specific data
 - Historical performance metrics for each horse
 - Fast-finishing metrics for each horse
