@@ -1,0 +1,9 @@
+The code has only been run with the following packages and versions:
+numpy: 1.24.3
+ipynb: 0.5.1
+beautifulsoup4: 4.12.2
+pandas: 2.0.3
+requests: 2.31.0
+
+All of these packages (not with these specific versions) can be install using:
+pip install numpy, ipynb, beautifulsoup4, pandas, requests
